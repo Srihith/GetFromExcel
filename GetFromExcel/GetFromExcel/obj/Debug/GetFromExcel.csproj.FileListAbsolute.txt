@@ -1,0 +1,13 @@
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\bin\Debug\GetFromExcel.exe.config
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\bin\Debug\GetFromExcel.exe
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\bin\Debug\GetFromExcel.pdb
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\bin\Debug\Excel.dll
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.csprojAssemblyReference.cache
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.Form1.resources
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.Properties.Resources.resources
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.csproj.GenerateResource.cache
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.csproj.CoreCompileInputs.cache
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.csproj.CopyComplete
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.exe
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.pdb
+C:\Users\sm244\Desktop\GetFromExcel\GetFromExcel\obj\Debug\GetFromExcel.csproj.ResolveComReference.cache
